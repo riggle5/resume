@@ -192,10 +192,10 @@ API 通信は SFCC というセールスフォースが提供している EC プ
 
 ### プロジェクトで使用した技術等
 
-- フロントエンド
+- フロントエンド  
   `React`, `Typescript`で、State 管理に`Mobx`を使用。
 
-- Headless CMS
+- Headless CMS  
   ユーザが投稿したレビューやお知らせ等記事の管理に Headless CMS の`Prismic.io`を導入。
 
 ### 学んだこと等
@@ -253,7 +253,7 @@ Google カレンダー・スプレッドシートを掛け合わせたような�
 
 ### プロジェクトで使用した技術等
 
-- フロントエンド
+- フロントエンド  
   `React`, `Typescript`で作成し、軽量なモジュールだったため、state 管理に`Context Api`のみで対応。
 
 ### 学んだこと等
