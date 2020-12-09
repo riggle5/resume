@@ -297,7 +297,7 @@ Google カレンダー・スプレッドシートを掛け合わせたような�
   useDispatch, useSelector 等の hooks に対応した後の、redux の実装について実践的に学ぶことができた。
 
 - 大規模アプリケーションでの Redux Store の設計・実装方法  
-  主に画面ごとに action, reducer, selector を用意し、イミュータブルな state の変更方法(案件内では immerjs というライブラリを使用)や、selector 周りの効率的な state の取得の仕方について広く理解することができた。
+  主に画面ごとにaction, reducer, selectorを用意し、イミュータブルなstateの変更方法(案件内ではimmerjsというライブラリを使用)や、selector周りのメモ化を利用した効率的なstateの取得の仕方について広く理解することができた。
 
 - yup を使ったバリデーションスキーマの定義  
   個人的な React の特徴として、フォーム周りの実装がなかなか困難という点が上がるが、今回は yup でバリデーション用のスキーマを定義し、react-hook-form で view 側と繋ぎこむという実装を行った。
